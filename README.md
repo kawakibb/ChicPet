@@ -15,7 +15,7 @@ cd chicpet
 
 python -m venv venv
 
-# Activate the virtual environment:
+## Activate the virtual environment:
 
 
 --On Windows:
@@ -43,7 +43,7 @@ flask db migrate
 flask db upgrade
 
 
---run the application:
+## run the application:
 
 flask run
 
